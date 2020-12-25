@@ -1,0 +1,4 @@
+django
+django-debug-toolbar
+flake8
+black
